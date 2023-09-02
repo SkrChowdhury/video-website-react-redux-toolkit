@@ -1,4 +1,4 @@
-# lws-json-server-todos
+# json-server-todos
 
 Example in memory todos api with json-server
 
